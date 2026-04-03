@@ -1,4 +1,4 @@
-# Conformal Prediction Experiments (Reproducible Pipeline)
+# Conformal Prediction Experiments
 
 This README provides **complete commands** to reproduce all conformal-prediction experiments, figures, and tables from scratch.
 
