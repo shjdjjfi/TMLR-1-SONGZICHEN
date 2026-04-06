@@ -1,0 +1,5 @@
+artifact,path
+raw_results,results/raw_results.csv
+aggregated_results,results/aggregated_results.csv
+figures,figures
+tables,tables

@@ -1,0 +1,10 @@
+      dataset               model  cov_label_noise_0.0  cov_label_noise_0.1  cov_label_noise_0.2  cov_label_noise_0.3  cov_sample_size_100  cov_sample_size_500  cov_sample_size_1000  cov_sample_size_full
+ adult_income   gradient_boosting                0.902                0.903                0.902                0.901                0.898                0.903                 0.900                 0.902
+ adult_income logistic_regression                0.903                0.904                0.902                0.902                0.902                0.901                 0.903                 0.903
+ adult_income       random_forest                0.903                0.902                0.902                0.903                0.900                0.901                 0.903                 0.903
+breast_cancer   gradient_boosting                0.923                0.925                0.932                0.944                0.918                0.923                 0.923                 0.923
+breast_cancer logistic_regression                0.923                0.923                0.925                0.898                0.916                0.923                 0.923                 0.923
+breast_cancer       random_forest                0.923                0.912                0.911                0.914                0.921                0.923                 0.923                 0.923
+  wine_binary   gradient_boosting                0.928                0.944                0.939                0.939                0.939                0.928                 0.928                 0.928
+  wine_binary logistic_regression                0.956                0.944                0.906                0.928                0.956                0.956                 0.956                 0.956
+  wine_binary       random_forest                0.911                0.956                0.928                0.900                0.922                0.911                 0.911                 0.911

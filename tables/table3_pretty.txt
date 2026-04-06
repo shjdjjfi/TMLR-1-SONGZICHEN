@@ -1,0 +1,10 @@
+      dataset               model  avg_set_size_clean  avg_set_size_high_shift  avg_set_size_high_label_noise  failed_settings  mean_coverage_gap  worst_coverage
+ adult_income   gradient_boosting               1.079                    1.101                          1.099               40             -0.024           0.639
+ adult_income logistic_regression               1.115                    1.058                          1.152               36             -0.027           0.679
+ adult_income       random_forest               1.084                    1.167                          1.131               30             -0.010           0.797
+breast_cancer   gradient_boosting               0.942                    0.695                          1.298               13             -0.011           0.491
+breast_cancer logistic_regression               0.932                    0.861                          1.030               15              0.012           0.763
+breast_cancer       random_forest               0.942                    0.689                          1.047               26             -0.008           0.570
+  wine_binary   gradient_boosting               1.050                    0.994                          1.333               27              0.013           0.639
+  wine_binary logistic_regression               0.994                    0.983                          1.178               19              0.034           0.722
+  wine_binary       random_forest               0.922                    0.772                          1.072               28             -0.004           0.611
